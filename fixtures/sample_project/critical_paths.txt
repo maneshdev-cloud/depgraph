@@ -1,0 +1,5 @@
+# Critical entry points for shopfront — the packages whose
+# dependency subtrees carry production traffic.
+express
+react
+requests
